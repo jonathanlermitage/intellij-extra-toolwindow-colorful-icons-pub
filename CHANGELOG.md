@@ -1,5 +1,9 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2024.1.1 (2024/07/08)
+* Extra ToolWindow Colorful Icons is now a freemium plugin.  
+  Please look at the plugin description for details.
+
 ## 1.37.1 (2024/07/03)
 * display a notification about the upcoming freemium plan.  
   Starting with the plugin version 2024.1.1, and after more than 3 years of development, Extra ToolWindow Colorful Icons becomes a freemium plugin.  
