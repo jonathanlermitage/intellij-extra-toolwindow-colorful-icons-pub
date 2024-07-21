@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2024.2.1 (2024/07/21)
+* add colors to the Server icon.
+
 ## 2024.1.1 (2024/07/08)
 * Extra ToolWindow Colorful Icons is now a freemium plugin.  
   Please look at the plugin description for details.
