@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2024.3.1 (WIP)
+* [request #1](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/1): add colors to the NuGet icon.
+
 ## 2024.2.1 (2024/07/21)
 * add colors to the Server icon.
 
@@ -190,7 +193,7 @@
 
 ## 1.3.0 (2021/05/29)
 * add colors for Make icon (tested with GoLand IDE).
-* add colors for Ant, Paste, Save All and Show Context Actions icons.
+* add colors for Ant, Paste, Save All and Show Context Actions icons. 
 
 ## 1.2.0 (2021/05/22)
 * plugin can be loaded with no IDE restart.
