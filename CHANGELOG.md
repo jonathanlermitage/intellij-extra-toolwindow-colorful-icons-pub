@@ -2,6 +2,7 @@
 
 ## 2024.3.1 (WIP)
 * [request #1](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/1): add colors to the NuGet icon.
+* fix [#3](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/3): the Project icon should be yellow, even when inactive (new UI, dark theme).
 
 ## 2024.2.1 (2024/07/21)
 * add colors to the Server icon.
