@@ -1,6 +1,6 @@
 # Extra ToolWindow Colorful Icons Change Log
 
-## 2024.4.1 (WIP)
+## 2024.4.1 (2024/08/20)
 * add colors to the Writerside icons.
 * rework the [PsiViewer](https://plugins.jetbrains.com/plugin/227-psiviewer) icon.
 
