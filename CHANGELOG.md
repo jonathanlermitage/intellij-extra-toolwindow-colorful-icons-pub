@@ -1,7 +1,7 @@
 # Extra ToolWindow Colorful Icons Change Log
 
 ## 2024.4.2 (WIP)
-* add colors to the AI Assistant status icon (status: enabled).
+* add colors to the AI Assistant status icon (status: disabled).
 
 ## 2024.4.1 (2024/08/20)
 * add colors to the Writerside icons.
