@@ -1,6 +1,6 @@
 # Extra ToolWindow Colorful Icons Change Log
 
-## 2024.4.2 (WIP)
+## 2024.5.1 (WIP)
 * add colors to the AI Assistant status icon (status: disabled).
 
 ## 2024.4.1 (2024/08/20)
