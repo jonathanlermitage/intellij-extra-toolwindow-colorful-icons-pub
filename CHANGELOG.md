@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2024.4.2 (WIP)
+* add colors to the AI Assistant status icon (status: enabled).
+
 ## 2024.4.1 (2024/08/20)
 * add colors to the Writerside icons.
 * rework the [PsiViewer](https://plugins.jetbrains.com/plugin/227-psiviewer) icon.
