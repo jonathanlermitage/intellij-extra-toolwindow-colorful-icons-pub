@@ -3,6 +3,7 @@
 ## 2024.5.1 (WIP)
 * add colors to the AI Assistant status icon (status: disabled).
 * add colors to the Grazie status icon (status: local processing).
+* rework AI Assistant and Grazie icons color.
 
 ## 2024.4.1 (2024/08/20)
 * add colors to the Writerside icons.
