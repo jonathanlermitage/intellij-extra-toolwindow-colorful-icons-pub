@@ -3,7 +3,7 @@
 ## 2024.5.1 (WIP)
 * add colors to the AI Assistant status icon (status: disabled).
 * add colors to the Grazie Pro status icon (status: local processing).
-* rework AI Assistant and Grazie Pro icons color. AI Assistant is green when enabled. Grazie Pro is green when using local processing and blue when connected to the cloud. Both are red when disabled or unavailable.
+* rework AI Assistant and Grazie Pro tool window icons color. AI Assistant is green when enabled. Grazie Pro is green when using local processing and blue when connected to the cloud. Both are red when disabled or unavailable.
 
 ## 2024.4.1 (2024/08/20)
 * add colors to the Writerside icons.
