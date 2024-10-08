@@ -1,7 +1,7 @@
 # Extra ToolWindow Colorful Icons Change Log
 
 ## 2024.5.3 (WIP)
-* remove the unneeded third-party library Apache Commons IO.
+* remove the unused third-party library Apache Commons IO.
 
 ## 2024.5.2 (2024/09/23)
 * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2024.3+).
