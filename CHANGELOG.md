@@ -1,9 +1,10 @@
 # Extra ToolWindow Colorful Icons Change Log
 
 ## 2024.6.1 (WIP)
-* rework the Hierarchy icon.
-* add colors to the Persistence icon.
-* add colors to the Android Resources Manager icon.
+* rework the Hierarchy toolbar icon.
+* rework the [Extra IDE Tweaks](https://plugins.jetbrains.com/plugin/23927-extra-ide-tweaks) Open Editors tool window icon.
+* add colors to the Persistence tool window icon.
+* add colors to the Android Resources Manager tool window icon.
 
 ## 2024.5.4 (2024/10/29)
 * fix potential component ID collisions when installing this plugin alongside other obfuscated plugins.
