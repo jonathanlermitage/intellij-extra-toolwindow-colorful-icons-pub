@@ -1,5 +1,9 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2024.5.4 (2024/10/29)
+* fix potential component ID collisions when installing this plugin alongside other obfuscated plugins.
+* code rework: replace usage of obsolete JetBrains APIs, improving compatibility with future IDEs.
+
 ## 2024.5.3 (2024/10/21)
 * remove the unused third-party library Apache Commons IO.
 
