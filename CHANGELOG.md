@@ -6,6 +6,7 @@
 * add colors to the Persistence tool window icon.
 * add colors to the Android Resources Manager tool window icon.
 * add colors to the WriterSide Collapse All and Expand All icons in the WriterSide tool window. For now, this works with the New UI only. The Classic UI is affected by a bug (see [WRS-6459](https://youtrack.jetbrains.com/issue/WRS-6459)).
+* fix support of the editor tab pinned icon. No longer overrides the WriterSide "Pin the Preview" icon.
 
 ## 2024.5.4 (2024/10/29)
 * fix potential component ID collisions when installing this plugin alongside other obfuscated plugins.
