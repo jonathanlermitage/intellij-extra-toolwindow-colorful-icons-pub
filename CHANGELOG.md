@@ -1,12 +1,13 @@
 # Extra ToolWindow Colorful Icons Change Log
 
-## 2024.6.1 (WIP)
+## 2024.6.1 (2024/11/16)
 * rework the Hierarchy toolbar icon.
 * rework the [Extra IDE Tweaks](https://plugins.jetbrains.com/plugin/23927-extra-ide-tweaks) Open Editors tool window icon.
 * rework the Writable and the Read-Only tool window icons when using the New UI.
 * add colors to the Persistence tool window icon.
 * add colors to the Android Resources Manager tool window icon.
 * add colors to the WriterSide Collapse All and Expand All icons in the WriterSide tool window. For now, this works with the New UI only. The Classic UI is affected by a bug (see [WRS-6459](https://youtrack.jetbrains.com/issue/WRS-6459)).
+* implement [#4](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/4): add colors to the Tests tool window in Rider.
 * fix support of the editor tab pinned icon. No longer overrides the WriterSide "Pin the Preview" icon.
 
 ## 2024.5.4 (2024/10/29)
