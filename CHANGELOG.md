@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2024.6.2 (2024/11/19)
+* hopefully fix `com.intellij.diagnostic.PluginException: Cannot init component state (...)` errors.
+
 ## 2024.6.1 (2024/11/16)
 * rework the Hierarchy toolbar icon.
 * rework the [Extra IDE Tweaks](https://plugins.jetbrains.com/plugin/23927-extra-ide-tweaks) Open Editors tool window icon.
