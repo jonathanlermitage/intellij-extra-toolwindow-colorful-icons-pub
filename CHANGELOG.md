@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2024.6.3 (WIP)
+* minor UI reworks in the settings panel.
+
 ## 2024.6.2 (2024/11/19)
 * hopefully fix `com.intellij.diagnostic.PluginException: Cannot init component state (...)` errors.
 * fix a potential licensing issue introduced by the previous plugin version.
