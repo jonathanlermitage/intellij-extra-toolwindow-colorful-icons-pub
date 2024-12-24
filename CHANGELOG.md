@@ -1,7 +1,14 @@
 # Extra ToolWindow Colorful Icons Change Log
 
-## 2024.6.3 (WIP)
+## 2025.1.1 (WIP)
+* implement [#6](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/6): add colors to the `Show History` icon.
+* add colors to the `Bazel` tool window icon.
+* rework the `Show Diff` icon when using the New UI.
+* * FYI, some colored icons for the New UI are still using icons from the Classic UI icons set (they use bolder strokes). I am reworking all the New UI icons bundled with this plugin. Visual integration with the New UI should be improved in the coming weeks.
+
+## 2024.6.3 (2024/12/13)
 * minor UI reworks in the settings panel.
+* minor code reworks
 
 ## 2024.6.2 (2024/11/19)
 * hopefully fix `com.intellij.diagnostic.PluginException: Cannot init component state (...)` errors.
