@@ -7,6 +7,7 @@
 * add colors to the `Chevron Up` and the `Chevron Down` normal and large icons.
 * several colored icons for the New UI were still using icons from the Classic UI icons set (they used bolder strokes). I've reworked most of them and will continue to do so over the coming weeks. Visual integration with the New UI should be improved. I will also try to implement an intermediate icons set that would offer New UI icons (still colored) with bolder strokes to improve readability for some users (for people with poor/old eyes, like me ^_^). Thank you for your support and patience.
 * some icons now have variants, similar to icon alternatives from Extra Icons.
+* [documentation](https://jonathanlermitage.github.io/ij-extra-tools-pack-docs/extra-tci.html).
 
 ## 2024.6.3 (2024/12/13)
 * minor UI reworks in the settings panel.
