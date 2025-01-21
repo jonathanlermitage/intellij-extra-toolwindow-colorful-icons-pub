@@ -1,6 +1,6 @@
 # Extra ToolWindow Colorful Icons Change Log
 
-## 2025.1.1 (planned for 2025/01/20)
+## 2025.1.1 (2025/01/21)
 * implement [#6](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/6): add colors to the `Show History` icon.
 * add colors to the `Bazel` tool window icon.
 * rework the `Add`, `Back`, `Bookmarks`, `Branch`, `Build`, `Close` (multiple icons), `Collapse`, `Collapse All`, `Changes` (VCS), `Commit`, `Database`, `Database Changes`, `Debug`, `Endpoints`, `Expand`, `Expand All`, `Fetch`, `Forward`, `Gradle`, `Learn` (Feature Trainer), `Maven`, `Merge`, `Profile`, `Redo`, `Remove`, `Run`, `Problems`, `Push`, `Reset`, `Rollback`, `Services`, `Show Diff`, `Spring`, `SQL Generator`, `Terminal`, `Undo`, `Update`, and `Writerside` tool window icons when using the New UI.
@@ -8,6 +8,7 @@
 * some icons now have variants, similar to [alternative icons from Extra Icons](https://jonathanlermitage.github.io/ij-extra-tools-pack-docs/extra-icons-plugin-icons.html#alternative-icons).
 * the New UI theme has been reworked, and a third theme "New UI Remix" has been added, which looks like the New UI theme with more visible lines.
 * improve the Chinese localization.
+* rework how the Chinese language is detected. This should avoid rare scenarios where the Chinese localization of the plugin was loaded on non-Chinese computers.
 * [documentation](https://jonathanlermitage.github.io/ij-extra-tools-pack-docs/extra-tci.html).
 
 ## 2024.6.3 (2024/12/13)
