@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2025.1.2 (WIP)
+* implement [#7](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/7): the freemium mode now allows selecting icons to enable and disable (still from the Classic UI icon theme).
+
 ## 2025.1.1 (2025/01/21)
 * implement [#6](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/6): add colors to the `Show History` icon.
 * add colors to the `Bazel` tool window icon.
