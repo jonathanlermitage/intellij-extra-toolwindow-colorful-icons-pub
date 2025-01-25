@@ -1,6 +1,9 @@
 # Extra ToolWindow Colorful Icons Change Log
 
-## 2025.1.2 (WIP)
+## 2025.1.3 (2025/01/27)
+* update the plugin description to announce lifetime licenses.
+
+## 2025.1.2 (2025/01/24)
 * implement [#7](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/7): the freemium mode now allows selecting icons to enable and disable (still from the Classic UI icon theme).
 
 ## 2025.1.1 (2025/01/21)
@@ -16,7 +19,7 @@
 
 ## 2024.6.3 (2024/12/13)
 * minor UI reworks in the settings panel.
-* minor code reworks
+* minor code reworks.
 
 ## 2024.6.2 (2024/11/19)
 * hopefully fix `com.intellij.diagnostic.PluginException: Cannot init component state (...)` errors.
