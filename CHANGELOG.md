@@ -2,8 +2,8 @@
 
 ## 2025.1.4 (WIP)
 * improve the plugin's compatibility range. The minimal IDE version is now 2023.3.1 instead of 2024.1.
-* add colors to the Coverage tool window icon (New UI).
-* add colors to the Notifications tool window icon (New UI).
+* [#9](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/9): add colors to the Coverage tool window icon (New UI).
+* [#8](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/8): add colors to the Notifications tool window icon (New UI).
 
 ## 2025.1.3 (2025/01/27)
 * update the plugin description to announce lifetime licenses.
