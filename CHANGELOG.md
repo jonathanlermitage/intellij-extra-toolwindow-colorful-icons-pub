@@ -1,6 +1,6 @@
 # Extra ToolWindow Colorful Icons Change Log
 
-## 2025.1.4 (2025/01/25)
+## 2025.1.4 (2025/02/25)
 * implement [#8](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/8): add colors to the Notifications tool window icon.
 * implement [#9](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/9): add colors to the Coverage tool window icon.
 * settings UI: add a search field to filter the icon table. This should help you find icons to (de)activate.
