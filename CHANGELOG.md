@@ -1,8 +1,5 @@
 # Extra ToolWindow Colorful Icons Change Log
 
-## 2025.1.5 (WIP)
-* settings can now be loaded and saved by the **Backup and Sync** plugin.
-
 ## 2025.1.4 (2025/02/25)
 * implement [#8](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/8): add colors to the Notifications tool window icon.
 * implement [#9](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/9): add colors to the Coverage tool window icon.
