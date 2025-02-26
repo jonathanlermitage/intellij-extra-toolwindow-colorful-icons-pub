@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2025.1.5 (WIP)
+* settings can now be loaded and saved by the **Backup and Sync** plugin. BTW, the behavior of this feature is not very intuitive. Some details [here](https://github.com/jonathanlermitage/intellij-extra-ide-tweaks/issues/3). I would recommend using the Import Settings and Export Settings features instead.
+
 ## 2025.1.4 (2025/02/25)
 * implement [#8](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/8): add colors to the Notifications tool window icon.
 * implement [#9](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/9): add colors to the Coverage tool window icon.
