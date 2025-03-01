@@ -4,6 +4,7 @@
 * settings can now be loaded and saved by the **Backup and Sync** plugin.
 * implement [#10](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/10): add colors to the GitHub Copilot tool window and status bar icons (welcome, Copilot, chat, connection status).
 * rework the Notifications tool window icon. The purple icon turned orange when selected.
+* improve the Chinese localization.
 
 ## 2025.1.4 (2025/02/25)
 * implement [#8](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/8): add colors to the Notifications tool window icon.
