@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2025.1.6 (WIP)
+* rework the Make tool window icon (New UI).
+
 ## 2025.1.5 (2025/03/17)
 * settings can now be loaded and saved by the **Backup and Sync** plugin.
 * implement [#10](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/10): add colors to the GitHub Copilot tool window and status bar icons (welcome, Copilot, chat, connection status).
