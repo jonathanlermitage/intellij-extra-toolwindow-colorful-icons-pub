@@ -1,6 +1,7 @@
 # Extra ToolWindow Colorful Icons Change Log
 
 ## 2025.1.6 (WIP)
+* implement [#12](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/12): add colors to some tool window icons in various plugins for Microsoft Azure.
 * rework the Make tool window icon (New UI).
 
 ## 2025.1.5 (2025/03/17)
