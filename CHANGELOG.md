@@ -1,5 +1,9 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2025.1.7 (2025/05/06)
+* fix for error `Class initialization must not depend on services. Consider using instance of the service on-demand instead`.
+* various minor code reworks.
+
 ## 2025.1.6 (2025/04/14)
 * implement [#12](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/12): add colors to some tool window icons in various plugins for Microsoft Azure.
 * rework the Make tool window icon (New UI).
