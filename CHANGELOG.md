@@ -7,7 +7,7 @@
 * [#14](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/14): add colors to the AI Assistant main toolbar icon.
 * add colors to the Kubernetes tool window icon.
 * rework the Python Console tool window icon and add alternative icons.
-* rework the Python Packages window icon and add alternative icons.
+* rework the Python Packages tool window icon and add alternative icons.
 * optimize the plugin size on disk by reorganizing resource files.
 
 ## 2025.1.7 (2025/05/06)
