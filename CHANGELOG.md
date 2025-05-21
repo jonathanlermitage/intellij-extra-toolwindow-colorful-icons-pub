@@ -3,6 +3,11 @@
 ## 2025.1.8 (WIP)
 * the minimal IDE version is now 2024.3 instead of 2023.3.1. This was needed to use newer JetBrains APIs and stay compatible with future IDEs (2025.2+).
 * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2025.2+).
+* [#13](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/13): rework and add colors to the Hierarchy tool window icon.
+* [#14](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/14): add colors to the AI Assistant main toolbar icon.
+* rework the Python tool window icon and add alternative icons.
+* rework the Python Packages window icon and add alternative icons.
+* optimize the plugin size on disk by reorganizing resource files.
 
 ## 2025.1.7 (2025/05/06)
 * fix for error `Class initialization must not depend on services. Consider using instance of the service on-demand instead`.
