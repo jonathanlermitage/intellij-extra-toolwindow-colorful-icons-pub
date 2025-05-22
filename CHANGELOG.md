@@ -17,6 +17,7 @@
 * rework the Python Console tool window icon and add alternative icons.
 * rework the Python Packages tool window icon and add alternative icons.
 * optimize the plugin size on disk by reorganizing resource files.
+* minor visual improvements in settings dialogs.
 
 ## 2025.1.7 (2025/05/06)
 * fix for error `Class initialization must not depend on services. Consider using instance of the service on-demand instead`.
