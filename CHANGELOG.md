@@ -14,6 +14,7 @@
 * [#13](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/13): add colors to the Code With Me main toolbar icon (New UI).
 * [#14](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/14): add colors to the AI Assistant main toolbar icon (New UI).
 * add colors to the Kubernetes tool window icon.
+* add colors to the UI Theme Color Picker tool window icon (appeared with 2025.2 IDEs, internal mode).
 * rework the Python Console tool window icon and add alternative icons.
 * rework the Python Packages tool window icon and add alternative icons.
 * optimize the plugin size on disk by reorganizing resource files.
