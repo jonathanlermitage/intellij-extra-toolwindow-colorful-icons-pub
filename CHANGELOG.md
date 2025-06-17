@@ -2,6 +2,7 @@
 
 ## 2025.1.9 (WIP)
 * add colors to the Android Profiler tool window icon.
+* rework the Android Build Variants tool window icon (New UI).
 
 ## 2025.1.8 (2025/06/13)
 * the minimal IDE version is now 2024.3 instead of 2023.3.1. This was needed to use newer JetBrains APIs and stay compatible with future IDEs (2025.2+).
