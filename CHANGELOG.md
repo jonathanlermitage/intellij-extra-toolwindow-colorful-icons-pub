@@ -1,6 +1,7 @@
 # Extra ToolWindow Colorful Icons Change Log
 
-## 2025.1.9 (WIP)
+## 2025.1.9 (2025/06/27)
+* fix [#16](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/16): `SettingsServiceB is in unnamed module of loader com.intellij.ide.plugins.cl.PluginClassLoader` errors.
 * add colors to the Android Profiler tool window icon.
 * rework the Android Build Variants tool window icon (New UI).
 
