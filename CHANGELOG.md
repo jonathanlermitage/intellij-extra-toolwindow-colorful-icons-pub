@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2025.1.11 (2025/07/30)
+* workaround for the [IDEA-376370](https://youtrack.jetbrains.com/issue/IDEA-376370/) issue.
+
 ## 2025.1.10 (2025/07/11)
 * new fix for [#16](https://github.com/jonathanlermitage/intellij-extra-toolwindow-colorful-icons-pub/issues/16): `SettingsService is in unnamed module of loader com.intellij.ide.plugins.cl.PluginClassLoader` errors.
 
