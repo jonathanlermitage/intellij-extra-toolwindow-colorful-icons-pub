@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2025.1.13 (WIP)
+* add colors to the [AI Playground](https://plugins.jetbrains.com/plugin/27370-ai-playground) tool window icon. This also fixes the icon size when using the Classic UI.
+
 ## 2025.1.12 (2025/08/05)
 * new series of workarounds for the [IDEA-376370](https://youtrack.jetbrains.com/issue/IDEA-376370/) issue. Up-voting this issue would greatly help.
 
