@@ -1,6 +1,7 @@
 # Extra ToolWindow Colorful Icons Change Log
 
 ## 2025.1.13 (WIP)
+* rework and add colors to various Rider and GoDot toolbar and tool window icons.
 * add colors to the [AI Playground](https://plugins.jetbrains.com/plugin/27370-ai-playground) tool window icon. This also fixes the icon size when using the Classic UI.
 
 ## 2025.1.12 (2025/08/05)
