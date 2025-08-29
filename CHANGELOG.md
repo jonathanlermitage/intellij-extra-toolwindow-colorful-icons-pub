@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2025.1.14 (WIP)
+* fix support of the Feature Trainer tool window icon. JetBrains changed the path of this icon in recent IDEs, so I needed to adapt my code.
+
 ## 2025.1.13 (2025/08/27)
 * rework and add colors to various Rider and GoDot toolbar and tool window icons: dotCover, dotMemory, dotTrace, Assembly Explorer, Monitoring, IL, DPA, Build whole solution, Syntax Tree Visualizer / Roslyn analyzers, .NET Project Run / Debug Configurations, various other .NET Run / Debug Configurations, GoDot Scene Preview, GoDot Script, dotcover Success status, dotcover Ongoing Success status, Tests toolwindow.
 * add colors to the [AI Playground](https://plugins.jetbrains.com/plugin/27370-ai-playground) tool window icon. This also fixes the icon size when using the Classic UI.
