@@ -2,6 +2,7 @@
 
 ## 2025.1.14 (WIP)
 * fix support of the Feature Trainer tool window icon. JetBrains changed the path of this icon in recent IDEs, so I needed to adapt my code.
+* add colors to the Compare Versions tool window (New UI only, the Classic UI tool window has no icon, so I can't change it for now, but I'm working on a workaround).
 
 ## 2025.1.13 (2025/08/27)
 * rework and add colors to various Rider and GoDot toolbar and tool window icons: dotCover, dotMemory, dotTrace, Assembly Explorer, Monitoring, IL, DPA, Build whole solution, Syntax Tree Visualizer / Roslyn analyzers, .NET Project Run / Debug Configurations, various other .NET Run / Debug Configurations, GoDot Scene Preview, GoDot Script, dotcover Success status, dotcover Ongoing Success status, Tests toolwindow.
