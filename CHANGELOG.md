@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2025.1.15 (2025/10/16)
+* fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2025.3+).
+
 ## 2025.1.14 (2025/09/15)
 * fix support of the Feature Trainer tool window icon. JetBrains changed the path of this icon in recent IDEs, so I needed to adapt my code.
 * add colors to the Compare Versions tool window (New UI only, the Classic UI tool window has no icon, so I can't change it for now, but I'm working on a workaround).
