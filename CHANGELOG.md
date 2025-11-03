@@ -1,5 +1,13 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2025.1.16 (WIP)
+* add colors to the Apply Changes and Restart Activity run configuration icon (Android Studio, New UI).
+* add colors to the Apply Code Changes run configuration icon (Android Studio, New UI).
+* add colors to the Assemble app run configuration icon (Android Studio, New UI).
+* add colors to the Attach Debugger to Android Process run configuration icon (Android Studio, New UI).
+* add colors to the Sync Project with Gradle Files run configuration icon (Android Studio, New UI).
+* add colors to the App Links Assistant tool window icon (Android Studio).
+
 ## 2025.1.15 (2025/10/16)
 * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2025.3+).
 
