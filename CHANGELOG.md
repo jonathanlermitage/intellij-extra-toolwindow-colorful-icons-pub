@@ -2,6 +2,7 @@
 
 ## 2025.1.16 (WIP)
 * this release adds compatibility with Huawei DevEco Studio and has been tested with DevEco Studio 5.1.1 (I don't have access to DevEco Studio 6 yet, but it should work). [See how to install plugin and activate your license in DevEco Studio](https://jonathanlermitage.github.io/ij-extra-tools-pack-docs/deveco-studio.html).
+* support more older IDEs. The minimal IDE version is now 2023.3 (previously 2024.3).
 * add colors to the Apply Changes and Restart Activity run configuration icon (Android Studio, New UI).
 * add colors to the Apply Code Changes run configuration icon (Android Studio, New UI).
 * add colors to the Assemble app run configuration icon (Android Studio, New UI).
