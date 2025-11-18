@@ -9,6 +9,16 @@
 * add colors to the Attach Debugger to Android Process run configuration icon (Android Studio, New UI).
 * add colors to the Sync Project with Gradle Files run configuration icon (Android Studio, New UI).
 * add colors to the App Links Assistant tool window icon (Android Studio).
+* add colors to the API Change Assistant tool window (DevEco Studio only).
+* add colors to the Code Linter tool window (DevEco Studio only).
+* add colors to the Log tool window (DevEco Studio only).
+* add colors to the ArkUI Inspector tool window (DevEco Studio only).
+* add colors to the Device File Browser tool window (DevEco Studio only).
+* add colors to the Previewer tool window (DevEco Studio only).
+* add colors to the Kit Assistant tool window (DevEco Studio only).
+* add colors to the Migrate Assistant tool window (DevEco Studio only).
+* add colors to the API Reference tool window (DevEco Studio only).
+* add colors to the Product main toolbar button (DevEco Studio only).
 
 ## 2025.1.15 (2025/10/16)
 * fix usage of some JetBrains deprecated APIs, improving the compatibility with future IDEs (2025.3+).
