@@ -1,6 +1,7 @@
 # Extra ToolWindow Colorful Icons Change Log
 
 ## 2025.1.17 (WIP)
+* the minimal IDE version is now 2024.3.
 * UI reworks in the plugin's settings panel.
 
 ## 2025.1.16 (2025/11/21)
