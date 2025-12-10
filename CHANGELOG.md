@@ -1,7 +1,7 @@
 # Extra ToolWindow Colorful Icons Change Log
 
 ## 2025.1.17 (WIP)
-* the minimal IDE version is now 2025.1.
+* the minimal IDE version is now 2025.1.4.1.
 * UI reworks in the plugin's settings panel.
 * add colors to the (Test Automation) Web Inspector tool window.
 * add colors to the (Plugin DevKit) Compose UI Preview tool window.
