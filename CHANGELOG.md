@@ -11,7 +11,7 @@
 * add colors to the (DataSpell) Python Process Output tool window.
 * add colors to the (DataSpell) Data tool window.
 * add colors to the (DataSpell) Jupyter Variables tool window.
-* add colors to the (DataSpell) Feedback button main menu icon.
+* add colors to the (DataSpell) Feedback main menu icon.
 * UI reworks in the plugin's settings panel.
 
 ## 2025.1.16 (2025/11/21)
