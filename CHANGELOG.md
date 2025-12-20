@@ -6,6 +6,12 @@
 * add colors to the (Plugin DevKit) Compose UI Preview tool window.
 * add colors to the Jewel Demos tool window.
 * add colors to the Build Project and Rebuild Project items in the Build menu (New UI, the Classic UI already had colored icons).
+* add colors to the (DataSpell) R Console tool window.
+* add colors to the (DataSpell) R Jobs tool window.
+* add colors to the (DataSpell) Python Process Output tool window.
+* add colors to the (DataSpell) Data tool window.
+* add colors to the (DataSpell) Jupyter Variables tool window.
+* add colors to the (DataSpell) Feedback button main menu icon.
 * UI reworks in the plugin's settings panel.
 
 ## 2025.1.16 (2025/11/21)
