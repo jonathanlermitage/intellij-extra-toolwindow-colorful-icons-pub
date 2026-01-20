@@ -1,6 +1,6 @@
 # Extra ToolWindow Colorful Icons Change Log
 
-## 2026.1.2 (WIP)
+## 2026.1.2 (2026/01/20)
 * improve support for 20x20 icons (New UI). This means that future plugin releases will start offering icons that are better suited to the New UI when Compact Mode is disabled. Otherwise, it will continue to use 16x16 or 13x13 icons. This will not affect the quality of the icons, as they are SVG files, but the geometry of the 20x20 icons may differ slightly.
 * rework the (Android) App Inspection tool window icon.
 * add colors to the Branch main toolbar icon (New UI).
