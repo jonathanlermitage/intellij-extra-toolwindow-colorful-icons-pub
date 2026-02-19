@@ -1,6 +1,6 @@
 # Extra ToolWindow Colorful Icons Change Log
 
-## 2026.1.3 (WIP)
+## 2026.1.3 (2026/02/20)
 * code and i18n reworks.
 
 ## 2026.1.2 (2026/01/20)
