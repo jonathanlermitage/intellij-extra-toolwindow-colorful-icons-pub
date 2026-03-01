@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2026.1.4 (WIP)
+* fix usage of JetBrains deprecated APIs, improving the compatibility with future IDEs (2026.1+).
+
 ## 2026.1.3 (2026/02/20)
 * code and i18n reworks.
 
