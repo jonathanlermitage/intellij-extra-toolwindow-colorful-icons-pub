@@ -3,6 +3,7 @@
 ## 2026.1.4 (WIP)
 * fix usage of JetBrains deprecated APIs, improving the compatibility with future IDEs (2026.1+).
 * add colors to the Documentation tool window (which appears when you press `Ctrl+H` twice).
+* rework the Messages tool window icon (New UI).
 
 ## 2026.1.3 (2026/02/20)
 * code and i18n reworks.
