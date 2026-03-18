@@ -1,6 +1,11 @@
 # Extra ToolWindow Colorful Icons Change Log
 
-## 2026.1.4 (WIP)
+## 2026.1.5 (WIP)
+* rework the Android Profiler tool window icon (New UI).
+* rework the Android App Quality Insights tool window icon (New UI).
+* internal: code reworks.
+
+## 2026.1.4 (2026/03/11)
 * fix usage of JetBrains deprecated APIs, improving the compatibility with future IDEs (2026.1+).
 * add colors to the Documentation tool window (which appears when you press `Ctrl+H` twice).
 * rework the Messages tool window icon (New UI).
