@@ -1,9 +1,11 @@
 # Extra ToolWindow Colorful Icons Change Log
 
 ## 2026.1.5 (WIP)
+* add colors to the Clone Repository main menu icon.
 * rework the Android Profiler tool window icon (New UI).
 * rework the Android App Quality Insights tool window icon (New UI).
 * internal: code reworks.
+* you might also be interested in the new Extra Tools Pack Lifetime and Extra Icons Lifetime plugins.
 
 ## 2026.1.4 (2026/03/11)
 * fix usage of JetBrains deprecated APIs, improving the compatibility with future IDEs (2026.1+).
