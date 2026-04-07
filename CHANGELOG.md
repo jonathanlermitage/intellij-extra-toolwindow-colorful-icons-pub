@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2026.1.6 (WIP)
+* internal: code reworks.
+
 ## 2026.1.5 (2026/03/30)
 * fix [PlantUML integration](https://plugins.jetbrains.com/plugin/7017-plantuml-integration) support.
 * add colors to the Clone Repository main menu icon (New UI).
