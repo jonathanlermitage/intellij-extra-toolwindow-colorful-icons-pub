@@ -1,5 +1,11 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2026.1.7 (WIP)
+* restore colors to the Deployment menu icon.
+* restore colors to the File Transfert tool window icon.
+* restore colors to the Remote Host tool window icon.
+* rework the Download and Upload menu icons (New UI).
+
 ## 2026.1.6 (2026/04/08)
 * internal: code reworks.
 * update the Privacy Policy. A minimal set of anonymous data is now collected and is retained for a maximum of 31 days. This data is used to determine which versions of the IDEs are in use and to assess whether it is worthwhile to continue supporting older IDE versions. The data is never shared with anyone else. [Click here](https://jonathanlermitage.github.io/ij-extra-tools-pack-docs/privacy-policy.html) to view the full description and learn how to disable data collection.
