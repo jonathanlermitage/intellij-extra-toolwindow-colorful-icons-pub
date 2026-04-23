@@ -1,6 +1,6 @@
 # Extra ToolWindow Colorful Icons Change Log
 
-## 2026.1.7 (WIP)
+## 2026.1.7 (2026/04/24)
 * restore colors to the Deployment menu icon.
 * restore colors to the File Transfer tool window icon.
 * restore colors to the Remote Host tool window icon.
