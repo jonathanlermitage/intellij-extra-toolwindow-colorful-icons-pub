@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2026.1.8 (WIP)
+* restore colors to the Connect to Database menu icon (New UI).
+
 ## 2026.1.7 (2026/04/24)
 * restore colors to the Deployment menu icon.
 * restore colors to the File Transfer tool window icon.
