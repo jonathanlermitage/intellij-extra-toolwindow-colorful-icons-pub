@@ -1,6 +1,11 @@
 # Extra ToolWindow Colorful Icons Change Log
 
-## 2026.1.8 (WIP)
+## 2026.1.9 (2026/05/25)
+* make the license management more permissive.
+* minor performance improvements.
+* minor i18n reworks.
+
+## 2026.1.8 (2026/05/18)
 * fix usage of JetBrains deprecated APIs, improving the compatibility with future IDEs (2026.2+).
 * restore colors to the Connect to Database menu icon (New UI).
 
