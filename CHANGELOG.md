@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2026.1.11 (WIP)
+* internal: various code reworks.
+
 ## 2026.1.10 (2026/06/15)
 * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.2+).
 * add colors to the Agent Threads ([Agent Workbench](https://plugins.jetbrains.com/plugin/30926-agent-workbench) JetBrains plugin, 2026.2+ IDEs only) tool window icon and the New Junie Thread button icon.
