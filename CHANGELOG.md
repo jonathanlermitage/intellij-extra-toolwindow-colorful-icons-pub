@@ -1,9 +1,9 @@
 # Extra ToolWindow Colorful Icons Change Log
 
-## 2026.1.11 (WIP)
+## 2026.1.11 (2026/07/16)
 * internal: various code reworks.
 
-## 2026.1.10 (2026/06/15)
+## 2026.1.10 (2026/06/17)
 * fix usage of JetBrains removed APIs, fixing the compatibility with future IDEs (2026.2+).
 * add colors to the Agent Threads ([Agent Workbench](https://plugins.jetbrains.com/plugin/30926-agent-workbench) JetBrains plugin, 2026.2+ IDEs only) tool window icon and the New Junie Thread button icon.
 * add colors to the [Bazel](https://plugins.jetbrains.com/plugin/22977-bazel) tool window icon.
