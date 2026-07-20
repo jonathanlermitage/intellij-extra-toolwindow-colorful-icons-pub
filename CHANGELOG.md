@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2026.1.12 (WIP)
+* enable compatibility with future 2026.3 IDEs.
+
 ## 2026.1.11 (2026/07/16)
 * internal: various code reworks.
 
