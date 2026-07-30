@@ -2,6 +2,7 @@
 
 ## 2026.1.13 (WIP)
 * rework the JPA Buddy tool window icons.
+* rework the Documentation tool window icon (Classic UI).
 
 ## 2026.1.12 (2026/07/22)
 * enable compatibility with future 2026.3 IDEs.
