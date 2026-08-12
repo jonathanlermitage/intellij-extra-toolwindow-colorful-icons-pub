@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2026.1.14 (WIP)
+* minor i18n reworks.
+
 ## 2026.1.13 (2026/08/04)
 * rework the JPA Buddy Designer and Explorer tool window icons.
 * rework the Documentation tool window icon (Classic UI).
