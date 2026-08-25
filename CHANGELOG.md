@@ -1,6 +1,7 @@
 # Extra ToolWindow Colorful Icons Change Log
 
 ## 2026.1.14 (WIP)
+* fix a minor performance regression at IDE startup that was introduced in previous plugin releases.
 * minor i18n reworks.
 
 ## 2026.1.13 (2026/08/04)
