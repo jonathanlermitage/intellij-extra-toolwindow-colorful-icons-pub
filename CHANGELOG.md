@@ -2,6 +2,7 @@
 
 ## 2026.1.14 (WIP)
 * fix a minor performance regression at IDE startup that was introduced in previous plugin releases.
+* add colors to the [OpenTelemetry](https://plugins.jetbrains.com/plugin/27488-opentelemetry) tool window icon.
 * minor i18n reworks.
 
 ## 2026.1.13 (2026/08/04)
