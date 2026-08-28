@@ -1,6 +1,6 @@
 # Extra ToolWindow Colorful Icons Change Log
 
-## 2026.1.14 (WIP)
+## 2026.1.14 (2026/08/28)
 * fix a minor performance regression at IDE startup that was introduced in previous plugin releases.
 * add colors to the [OpenTelemetry](https://plugins.jetbrains.com/plugin/27488-opentelemetry) tool window icon.
 * minor i18n reworks.
