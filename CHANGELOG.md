@@ -2,6 +2,7 @@
 
 ## 2026.1.15 (WIP)
 * rework the override of the `add.svg` icon used in various locations. This fixes the support of the AI Assistant's `Next File` tool window icon introduced with IntelliJ 2026.3 EAP4.
+* fix the status icon when the AI Assistant is disabled or unavailable.
 
 ## 2026.1.14 (2026/08/28)
 * fix a minor performance regression at IDE startup that was introduced in previous plugin releases.
