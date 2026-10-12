@@ -4,6 +4,8 @@
 * support the Spring Profile selector icon in the status bar.
 * support the AI Assistant "no login" icon when using the Classic UI. The official icon provided by the AI Assistant plugin is too big. It's a 20x20 icon, while the Classic UI requires 16x16 icons. The IDE does not resize the icon correctly, so I am providing a revised icon.
 * rework the AI Assistant "disabled" icons when using the Classic UI.
+* support various Junie and Air icons. As the official Air icon is gray, I’ve provided several icons in different colors. Remember that you can choose whichever icon you like in the settings (select your favourite "alternative" icon).
+* fix the dotMemory dark icon.
 
 ## 2026.1.15 (2026/10/06)
 * rework the override of the `add.svg` icon used in various locations. This fixes the support of the AI Assistant's `Next File` tool window icon introduced with IntelliJ 2026.3 EAP4.
