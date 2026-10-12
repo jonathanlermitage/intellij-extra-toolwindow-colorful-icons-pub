@@ -4,7 +4,7 @@
 * support the Spring Profile selector icon in the status bar.
 * support the AI Assistant "no login" icon when using the Classic UI. The official icon provided by the AI Assistant plugin is too big. It's a 20x20 icon, while the Classic UI requires 16x16 icons. The IDE does not resize the icon correctly, so I am providing a revised icon.
 * rework the AI Assistant "disabled" icons when using the Classic UI.
-* support various Junie and Air icons. As the official Air icon is gray, I’ve provided several icons in different colors. Remember that you can choose whichever icon you like in the settings (select your favourite "alternative" icon).
+* support various Junie, Claude, and Air icons. As the official Air icon is gray, I’ve provided several icons in different colors. Remember that you can choose whichever icon you like in the settings (select your favourite "alternative" icon).
 * fix the dotMemory dark icon.
 
 ## 2026.1.15 (2026/10/06)
@@ -283,7 +283,7 @@
 
 ## 1.32.0 (2024/02/10)
 * rework some new UI icons (thicker lines, to make them more visible when coloured, in normal and compact modes): Refresh, Rollback Commit, Bookmarks, Services.
-* restore the new UI Collapse, Collapse All, Expand and Expand All icons (I was still using the old icons even with the new UI), and add colors to them.
+* restore the new UI Collapse, Collapse All, Expand, and Expand All icons (I was still using the old icons even with the new UI), and add colors to them.
 * add colors to Back icon in new UI.
 * add colors to Forward icon in new UI.
 * add colors to Diff icon in new UI.
@@ -320,7 +320,7 @@
 ## 1.27.0 (2023/09/03)
 * add an option to prefer Old UI or New UI icon variants.
 * add colors to Swap Panels icon.
-* add new UI variants for Bookmarks, Commit, Refresh, Rollback and Services icons. **Future updates will add variants for more icons** (contributions would be highly appreciated).
+* add new UI variants for Bookmarks, Commit, Refresh, Rollback, and Services icons. **Future updates will add variants for more icons** (contributions would be highly appreciated).
 * internal: code cleanup, remove compatibility code for unsupported old IDEs.
 * **new UI support: [up-voting this issue](https://youtrack.jetbrains.com/issue/IDEA-321006/cant-override-IDE-SVG-icons-using-IconPathPatcher-in-newUI) would help**. Thanks!
 
@@ -439,7 +439,7 @@
 
 ## 1.3.0 (2021/05/29)
 * add colors for Make icon (tested with GoLand IDE).
-* add colors for Ant, Paste, Save All and Show Context Actions icons. 
+* add colors for Ant, Paste, Save All, and Show Context Actions icons. 
 
 ## 1.2.0 (2021/05/22)
 * plugin can be loaded with no IDE restart.
