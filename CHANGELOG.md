@@ -1,5 +1,8 @@
 # Extra ToolWindow Colorful Icons Change Log
 
+## 2026.1.17 (WIP)
+* improve support of the `Unit Tests` Run Configuration icon in Rider. The `Tests` tool window icon was colored, but not the Run Configuration icon.
+
 ## 2026.1.16 (2026/10/20)
 * support the Spring Profile selector icon in the status bar.
 * support the AI Assistant "no login" icon when using the Classic UI. The official icon provided by the AI Assistant plugin is too big. It's a 20x20 icon, while the Classic UI requires 16x16 icons. The IDE does not resize the icon correctly, so I am providing a revised icon.
