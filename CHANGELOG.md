@@ -1,6 +1,6 @@
 # Extra ToolWindow Colorful Icons Change Log
 
-## 2026.1.17 (WIP)
+## 2026.1.17 (2026/11/18)
 * improve support of the `Unit Tests` Run Configuration icon in Rider. The `Tests` tool window icon was colored, but not the Run Configuration icon.
 * support the Rust Cargo tool window icon.
 
